@@ -1,0 +1,16 @@
+# Ignore Git related files and directories
+.git
+.idea
+
+# Ignore compiled binaries and build artifacts
+bin/
+obj/
+
+# Ignore Visual Studio project files and settings
+*.csproj
+*.sln
+
+# Ignore user-specific files created by IDEs or editors
+.DS_Store
+Scratches and Consoles
+
